@@ -1,0 +1,22 @@
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0.5em;
+}
+
+.container-fluid {
+    height: 5vh ;
+}
+
+.nav-link {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nav-link:hover {
+    color: #62c462;
+}
+
+.nav-link:active {
+    color: #62c462;
+}

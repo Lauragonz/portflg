@@ -1,0 +1,11 @@
+.container {
+    height: 78vh;
+    max-width: 1280px;
+    background-image: url(../../../assets/img/backgr1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home {
+    text-align: center;
+}

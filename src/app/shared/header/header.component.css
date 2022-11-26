@@ -1,0 +1,25 @@
+.container {
+    height: 10vh;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0.5em;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.hImg {
+    width: 10%;
+}
+
+a:hover, button:hover {
+    color: #62c462;
+}
+
+button {
+    background-color: #ffffff;
+    color: black;
+}
+
+button:hover {
+    background-color: #ffffff;
+}

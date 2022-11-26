@@ -1,0 +1,224 @@
+{
+    "name": "Laura",
+    "surname": "Gonzalez",
+    "image": "../assets/img/Lau2021.png",
+    "position": "Full Stack Developer Junior",
+    "email": "laura.gonzmau@gmail.com",
+    "logo":"assets/img/APLogo.png",
+    
+
+    "about": "Detail-oriented, organized and meticulous employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.",
+
+
+    "experience": [
+        {
+        "image": "/assets/img/utn.png",
+        "position": "Laboratory Intern",
+        "company": "Universidad Tecnológica Nacional",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "start": "06/2020",
+        "end": "11/2020"
+        },
+        {
+        "image": "../assets/img/utn.png",
+        "position": "Laboratory Intern",
+        "company": "Universidad Tecnológica Nacional",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "start": "05/2019",
+        "end": "11/2019"
+        },
+        {
+        "image": "../assets/img/medifrance.png",
+        "position": "Hotel Housekeeper",
+        "company": "MediFranceGroupe",
+        "city": "Roissy-en-France",
+        "country": "France",
+        "start": "10/2015",
+        "end": "04/2017"
+        },
+        {
+        "image": "../assets/img/ibisstyles.png",
+        "position": "Hotel Receptionist",
+        "company": "Ibis Styles Cathèdrale",
+        "city": "Evry",
+        "country": "France",
+        "start": "10/2011",
+        "end": "05/2015"
+        }
+    ],
+    "training": [
+        {
+        "image": "../assets/img/logo.png",
+        "title": "Full Stack Developer Junior",
+        "school": "#YoProgramo - Argentina Programa",
+        "start": "08/2022",
+        "end": "01/2023"
+        },
+        {
+        "image": "../assets/img/openbootcamp.png",
+        "title": "Introducción a la programación",
+        "school": "Open Bootcamp",
+        "start": "09/2022",
+        "end": "10/2022"
+        },
+        {
+        "image": "../assets/img/fcc.png",
+        "title": "Responsive Web Design",
+        "school": "FreeCodeCamp",
+        "start": "05/2022",
+        "end": "06/2022"
+        },
+        {
+        "image": "../assets/img/logo.png",
+        "title": "Concepts of Programming",
+        "school": "#SeProgramar - Argentina Programa",
+        "start": "08/2021",
+        "end": "10/2021"
+        },
+        {
+        "image": "../assets/img/utn.png",
+        "title": "Analista en Sistemas de la información",
+        "school": "Universidad Tecnológica Nacional",
+        "start": "01/2018",
+        "end": "Actual"
+        }
+    ],
+    "courses": [
+        {
+        "title": "Hotel receptionist",
+        "school": "Afpa Creteil",
+        "city": "Creteil",
+        "country": "France",
+        "end": "10/2011"
+        },
+        {
+        "title": "Hotel housekeeper",
+        "school": "PromHôte",
+        "city": "Villepinte",
+        "country": "France",
+        "end": "06/2009"
+        }
+    ],
+
+    "soft":[
+        {
+        "image": "../assets/img/customer-service.png",
+        "title": "Customer service"
+        },
+        {
+        "image": "../assets/img/decision-making.png",
+        "title": "Decision making"
+        },
+        {
+        "image": "../assets/img/competence.png",
+        "title": "Management skills"
+        },
+        {
+        "image": "../assets/img/negociation.png",
+        "title": "Negociation"
+        },
+        {
+        "image": "../assets/img/teamwork.png",
+        "title": "Teamwork"
+        },
+        {
+        "image": "../assets/img/machine-learning.png",
+        "title": "Training agility"
+        }
+    ],
+
+    
+    "hard": [
+        {
+        "image": "../assets/img/html.png",
+        "title": "HTML5"
+        },
+        {
+        "image": "../assets/img/css-3.png",
+        "title": "CSS3"
+        },
+        {
+        "image": "../assets/img/js.png",
+        "title": "JavaScript"
+        },
+        {
+        "image": "../assets/img/typescript.png",
+        "title": "TypeScript"
+        },
+        {
+        "image": "../assets/img/sql.png",
+        "title": "SQL"
+        },
+        {
+        "image": "../assets/img/bootstrap.png",
+        "title": "Bootstrap"
+        },
+        {
+        "image": "../assets/img/angular.png",
+        "title": "Angular"
+        },
+        {
+        "image": "../assets/img/mysql.png",
+        "title": "MySQL"
+        },
+        {
+        "image": "../assets/img/java.png",
+        "title": "Java"
+        },
+        {
+        "image": "../assets/img/python.png",
+        "title": "Python"
+        }
+    ],
+
+    "lang": [
+        {
+        "title": "Spanish",
+        "status": "Native"
+        },
+        {
+        "title": "English",
+        "status": "Advanced"
+        },
+        {
+        "title": "French",
+        "status": "Advanced"
+        },
+        {
+        "title": "Hebrew",
+        "status": "Basic"
+        }
+    ],
+
+    "project": [
+        {
+            "image": "../assets/img/Encriptador Desencriptador.png",
+            "title": "Encryptor / Decryptor",
+            "description": "Game to encrypt and decrypt texts.",
+            "date": "07/2022"
+        },
+        {
+            "image": "../assets/img/TDP.png",
+            "title": "HTML - Technical Page",
+            "description": "Creation of a technical page on HTML.",
+            "date": "06/2022"
+        },
+        {
+            "image": "../assets/img/Form.png",
+            "title": "Survery Form",
+            "description": "One Page Services Survey.",
+            "date": "05/2022"
+        },
+        {
+            "image": "../assets/img/PLP.png",
+            "title": "Product Landing Page",
+            "description": "Product landing page to test skills",
+            "date": "05/2022"
+        }
+    ]
+        
+    
+}
+
