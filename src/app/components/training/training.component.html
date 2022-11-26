@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="row mt-4">
+        <div class="col-3" *ngFor="let train of trainingData">
+            <div class="card border-success mb-3" style="max-width: 20rem;">
+                <div class="card-header bg-success text-dark">{{train.title}}</div>
+                <div class="card-body">
+                    <h4 class="card-title">{{train.school}}</h4>
+                    <p class="card-text">{{train.end}}</p>
+                </div>
+        </div>
+    </div>
+</div>

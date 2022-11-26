@@ -1,0 +1,36 @@
+.container {
+    height: 78vh;
+    max-width: 1280;
+
+}
+
+.soft, .hard, .lang {
+    height: 78vh;
+    margin-top: 1rem;
+    margin-right: 2.8rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.lang {
+    margin-right: 0rem;
+}
+
+h3 {
+    color: #62c462;
+}
+.SkC {
+    height: 15vh
+}
+
+.imgH {
+    height: 2rem;
+}
+
+img {
+    width: 3rem;
+}
+
+h5 {
+    font-size: 1rem;
+}

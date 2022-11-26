@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="row">
+        <div class="col-3" *ngFor="let proj of projectsData">
+            <div class="card border-primary mb-3" style="max-width: 20rem;">
+                <div class="card-header">{{proj.title}}</div>
+                <div class="card-body">
+                    <img [src]="proj.image" alt="" class="card-image">
+                    <p class="card-text">{{proj.description}}</p>
+                    <p class="card-text">{{proj.date}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

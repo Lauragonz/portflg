@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="row">
+        <div class="soft col-4 bg-light text-center">
+            <h3>Soft Skills</h3>
+            <div class="row mt-3">
+                <div class="col-4 mb-4" *ngFor="let soft of softData">
+                    <img [src]="soft.image" alt="">
+                    <h5 class="text-dark pt-2">{{soft.title}}</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-4 bg-light hard">
+            <h3>Hard Skills</h3>
+            <div class="row mt-3">
+                <div class="col-4 SkC" *ngFor="let hard of hardData">
+                    <div class="imgH">
+                        <img [src]="hard.image" alt="">
+                    </div>
+                    <h5 class="text-dark mt-4">{{hard.title}}</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-3 bg-light lang">
+            <h3>Languages</h3>
+            <div class="row mt-3" *ngFor="let lang of langData">
+                <h4 class="text-dark">{{lang.title}}</h4>
+                <p>{{lang.status}}</p>
+
+            </div>
+        </div>
+    </div>
+</div>

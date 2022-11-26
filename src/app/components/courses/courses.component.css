@@ -1,0 +1,14 @@
+.container {
+    height: 78vh;
+    max-width: 1280px;
+    text-align: center;
+}
+
+.card-header {
+    font-size: 1.7rem;
+    font-weight: bolder;
+}
+
+h4 {
+    font-size: 1.3rem;
+}

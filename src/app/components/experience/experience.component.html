@@ -1,1 +1,16 @@
-<p>experience works!</p>
+<div class="container">
+    <div class="row pt-5">
+        <div class="col-3" *ngFor="let exp of experienceData">
+            <div class="card border-success bg-light mb-3" style="max-width: 20rem;">
+                <div class="card-header fs-4 text-success">{{exp.position}}</div>
+                <div class="card-body">
+                    <h4 class="card-title fs-5 text-dark">{{exp.company}}</h4>
+                    <p class="card-text">{{exp.city}} - {{exp.country}}</p>
+                    <p class="card-text">{{exp.start}} - {{exp.end}}</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

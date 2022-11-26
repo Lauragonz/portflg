@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="row mt-3">
+        <div class="col-4" *ngFor="let cour of coursesData">
+            <div class="card border-info mb-3" style="max-width: 20rem;">
+                <div class="card-header">{{cour.title}}</div>
+                <div class="card-body">
+                    <h4 class="card-title">{{cour.school}}</h4>
+                    <p class="card-text">{{cour.city}} - {{cour.country}}</p>
+                    <p class="card-text">{{cour.end}}</p>
+                </div>
+        </div>
+    </div>
+</div>
+

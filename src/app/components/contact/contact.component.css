@@ -1,0 +1,28 @@
+.container {
+    height: 78vh;
+    max-width: 1280px;
+    background-image: url(../../../assets/img/backgr1.png);
+    background-size: cover;
+}
+
+.question {
+    padding: 2rem 0;
+}
+
+input {
+    width: 40%;
+    margin-bottom: 1rem;
+}
+
+input, textarea {
+    border: 1px solid #62c462;
+    padding: 0.5rem;
+}
+::placeholder {
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
